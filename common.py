@@ -1,7 +1,7 @@
 
-#############
+ ###########
 # common.py #
-#############
+ ###########
 # functions not part of the core of the bot but useful for multiple commands
 
 # TODO: clean up a little, possibly add maximum recursion level
